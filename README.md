@@ -5,7 +5,7 @@
 tictactoe-react-rails inspired by: https://github.com/MiloTodt/tictactoe
 
 
-Rails Application
+This app uses a using a variant of the minimax algorithm for the AI.
 
 ### React with Rails
 
@@ -21,7 +21,7 @@ $ yarn add or npm install
 https://github.com/hotwired/turbo-rails
 ```
 
-At this point, you will just need to setup rails:
+At this point, you will just need to setup rails. Clone the project and run:
 
 ```bash
 $ bundle
