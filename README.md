@@ -26,6 +26,9 @@ At this point, you will just need to setup rails. Clone the project and run:
 ```bash
 $ bundle
 ```
+```bash
+$ rails db:prepare
+```
 
 Run app:
 
